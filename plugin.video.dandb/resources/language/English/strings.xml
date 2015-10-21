@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30001">Username</string>
+    <string id="30002">Password</string>
+    <string id="30003">Enable detailed log for error reporting</string>
+    <string id="30004">Create advancedsettings.xml file for streaming optimization</string>
+    <string id="30005">Check for updates</string>
+</strings>

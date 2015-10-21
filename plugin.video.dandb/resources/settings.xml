@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="user" type="text" option="writeable" label="30001" default=""/>
+    <setting id="password" type="text" option="writeable,hidden" label="30002" default=""/>
+    <setting id="debug" type="bool" label="30003" default="false"/>
+    <setting id="check_for_updates" type="bool" label="30005" default="true"/>
+    <setting id="session_ticket" type="text" visible="false" default=""/>
+</settings>
